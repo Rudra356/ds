@@ -42,7 +42,7 @@ function WasteForm() {
         </div>
         <form onSubmit={handleSubmit} className="text-center">
           <select
-            className="form-select mb-3"
+            className="form-select mb-3 mx-auto"
             value={wasteType}
             onChange={(e) => setWasteType(e.target.value)}
           >

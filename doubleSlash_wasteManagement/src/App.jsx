@@ -8,6 +8,7 @@ import Testimonials from "./components/Testimonials";
 import Contact from "./components/Contact";
 import Footer from "./components/Footer";
 import "./styles.css";
+
 import WasteForm from "./components/WasteForm";
 import MapComponent from "./components/MapComponent";
 
