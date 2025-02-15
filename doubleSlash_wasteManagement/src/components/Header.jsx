@@ -22,7 +22,7 @@ function Header() {
                 >
                   Get Started
                 </a>
-                <a className="btn btn-outline-light btn-lg px-4" href="#!">
+                <a className="btn btn-outline-light btn-lg px-4" href="#how-it-works">
                   Learn More
                 </a>
               </div>

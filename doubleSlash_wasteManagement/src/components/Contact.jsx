@@ -2,18 +2,13 @@ import React from "react";
 
 function Contact() {
   return (
-    <section className="bg-light py-3">
-      <div className="container px-5 my-5 px-5">
-        <div className="text-center mb-5">
-          <div className="feature bg-primary bg-gradient text-white rounded-3 mb-3">
-            <i className="bi bi-envelope"></i>
-          </div>
-          <h2 className="fw-bolder">Get in touch</h2>
-          <p className="lead mb-0">We'd love to hear from you</p>
-        </div>
-        <div className="row gx-5 justify-content-center">
-          <button className="btn btn-dark">Call us</button>
-        </div>
+    <section className="py-3 border-bottom text-center" id="contact">
+      <div className="container px-5 my-5">
+        <h2 className="fw-bold">Need Assistance? Call Now!</h2>
+        <p className="text-muted">Contact the waste management authority for help.</p>
+        <a href="tel:+919748995046" className="btn btn-outline-dark btn-lg">
+          📞 Call Now
+        </a>
       </div>
     </section>
   );

@@ -4,6 +4,12 @@ function Features() {
   return (
     <section className="py-3 border-bottom" id="features">
       <div className="container px-5 my-5">
+        {/* Section Heading */}
+        <div className="text-center mb-5">
+          <h1 className="fw-bold">Our Key Features for Smarter Waste Management</h1>
+          <p className="text-muted">Simplifying waste disposal with technology-driven solutions</p>
+        </div>
+        
         <div className="row gx-5">
           <div className="col-lg-4 mb-5 mb-lg-0">
             <div className="feature bg-primary bg-gradient text-white rounded-3 mb-3">
@@ -22,7 +28,7 @@ function Features() {
 
           <div className="col-lg-4 mb-5 mb-lg-0">
             <div className="feature bg-success bg-gradient text-white rounded-3 mb-3">
-              <i class="bi bi-recycle"></i>
+              <i className="bi bi-recycle"></i>
             </div>
             <h2 className="h4 fw-bolder">Eco-Friendly Disposal Methods</h2>
             <p>

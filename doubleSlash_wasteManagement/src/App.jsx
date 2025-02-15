@@ -53,7 +53,7 @@ function App() {
       <WasteForm />
       <MapComponent />
       <Testimonials />
-
+      <Contact/>
       <Footer />
     </>
   );
