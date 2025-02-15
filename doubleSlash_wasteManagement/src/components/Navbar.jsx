@@ -5,7 +5,7 @@ function Navbar() {
     <nav className="navbar navbar-expand-lg navbar-dark bg-dark">
       <div className="container px-5">
         <a className="navbar-brand" href="#!">
-        Greenlify
+          Greenlify
         </a>
         <button
           className="navbar-toggler"

@@ -7,11 +7,11 @@ function HowItWorks() {
         <div className="text-center mb-5">
           <h2 className="fw-bolder">How It Works</h2>
           <p className="lead mb-0">
-            Our waste management process ensures a cleaner and greener environment
+            Our waste management process ensures a cleaner and greener
+            environment
           </p>
         </div>
         <div className="row gx-5 justify-content-center">
-          {/* Step 1: Waste Collection */}
           <div className="col-lg-3 col-md-6 mb-5">
             <div className="text-center">
               <div className="feature bg-primary bg-gradient text-white rounded-3 mb-3">
@@ -24,7 +24,6 @@ function HowItWorks() {
             </div>
           </div>
 
-          {/* Step 2: Waste Sorting */}
           <div className="col-lg-3 col-md-6 mb-5">
             <div className="text-center">
               <div className="feature bg-primary bg-gradient text-white rounded-3 mb-3">
@@ -38,11 +37,10 @@ function HowItWorks() {
             </div>
           </div>
 
-          {/* Step 3: Recycling */}
           <div className="col-lg-3 col-md-6 mb-5">
             <div className="text-center">
               <div className="feature bg-primary bg-gradient text-white rounded-3 mb-3">
-              <i className="fa-solid fa-recycle"></i>
+                <i className="fa-solid fa-recycle"></i>
               </div>
               <h3 className="h4 fw-bolder">Step 3: Recycling</h3>
               <p className="mb-0">
@@ -51,7 +49,6 @@ function HowItWorks() {
             </div>
           </div>
 
-          {/* Step 4: Disposal */}
           <div className="col-lg-3 col-md-6 mb-5">
             <div className="text-center">
               <div className="feature bg-primary bg-gradient text-white rounded-3 mb-3">

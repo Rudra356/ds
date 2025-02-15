@@ -8,9 +8,7 @@ function Pricing() {
           <h2 className="fw-bolder">Pay as you grow</h2>
           <p className="lead mb-0">With our no hassle pricing plans</p>
         </div>
-        <div className="row gx-5 justify-content-center">
-          {/* Add pricing cards here */}
-        </div>
+        <div className="row gx-5 justify-content-center"></div>
       </div>
     </section>
   );

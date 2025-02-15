@@ -12,7 +12,7 @@ function Contact() {
           <p className="lead mb-0">We'd love to hear from you</p>
         </div>
         <div className="row gx-5 justify-content-center">
-      <button className="btn btn-dark">Call us</button>
+          <button className="btn btn-dark">Call us</button>
         </div>
       </div>
     </section>

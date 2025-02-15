@@ -37,8 +37,12 @@ function WasteForm() {
     <section className="py-5">
       <div className="container px-5">
         <div className="text-center mb-4">
-          <h2 className="fw-bolder">Find the Right Way to Dispose of Your Waste</h2>
-          <p className="text-muted">Select the type of waste to get disposal guidance.</p>
+          <h2 className="fw-bolder">
+            Find the Right Way to Dispose of Your Waste
+          </h2>
+          <p className="text-muted">
+            Select the type of waste to get disposal guidance.
+          </p>
         </div>
         <form onSubmit={handleSubmit} className="text-center">
           <select
@@ -51,7 +55,9 @@ function WasteForm() {
             <option value="nonbiodegradable">Non-Biodegradable</option>
             <option value="hazardous">Hazardous</option>
           </select>
-          <button type="submit" className="btn btn-primary">Get Solution</button>
+          <button type="submit" className="btn btn-primary">
+            Get Solution
+          </button>
         </form>
         {solution && (
           <div className="alert alert-success mt-4 text-center">
@@ -60,7 +66,8 @@ function WasteForm() {
         )}
         {userLocation && (
           <div className="alert alert-info mt-3">
-            <strong>Your Location:</strong> Lat {userLocation.lat}, Lng {userLocation.lng}
+            <strong>Your Location:</strong> Lat {userLocation.lat}, Lng{" "}
+            {userLocation.lng}
           </div>
         )}
       </div>

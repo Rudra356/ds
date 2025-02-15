@@ -11,13 +11,13 @@ function Testimonials() {
           </p>
         </div>
         <div className="row gx-5 justify-content-center">
-          {/* Testimonial 1 */}
           <div className="col-lg-4 mb-4">
             <div className="card border-0 shadow">
               <div className="card-body p-4">
                 <p className="mb-4">
-                  "This platform helped me dispose of my household waste properly.
-                  I never knew I was throwing away recyclables incorrectly!"
+                  "This platform helped me dispose of my household waste
+                  properly. I never knew I was throwing away recyclables
+                  incorrectly!"
                 </p>
                 <h5 className="fw-bold mb-0">Amit Sharma</h5>
                 <p className="text-muted">Homeowner</p>
@@ -25,7 +25,6 @@ function Testimonials() {
             </div>
           </div>
 
-          {/* Testimonial 2 */}
           <div className="col-lg-4 mb-4">
             <div className="card border-0 shadow">
               <div className="card-body p-4">
@@ -40,13 +39,13 @@ function Testimonials() {
             </div>
           </div>
 
-          {/* Testimonial 3 */}
           <div className="col-lg-4 mb-4">
             <div className="card border-0 shadow">
               <div className="card-body p-4">
                 <p className="mb-4">
                   "As an environmental activist, I appreciate the effort in
-                  educating people about proper waste disposal. Highly recommended!"
+                  educating people about proper waste disposal. Highly
+                  recommended!"
                 </p>
                 <h5 className="fw-bold mb-0">Rohan Desai</h5>
                 <p className="text-muted">Environmental Advocate</p>

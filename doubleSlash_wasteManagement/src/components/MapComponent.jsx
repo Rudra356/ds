@@ -34,7 +34,8 @@ function MapComponent() {
     <div className="container text-center my-5">
       <h2 className="fw-bold mb-3">Find Nearest Dump Station</h2>
       <p className="text-muted mb-4">
-        Click the button below to get directions to the nearest waste disposal site.
+        Click the button below to get directions to the nearest waste disposal
+        site.
       </p>
       <button
         onClick={requestLocation}
