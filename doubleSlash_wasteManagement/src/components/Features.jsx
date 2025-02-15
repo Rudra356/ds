@@ -21,7 +21,7 @@ function Features() {
               methods. Our system helps you make eco-friendly choices to reduce
               waste pollution.
             </p>
-            <a className="text-decoration-none" href="#!">
+            <a className="text-decoration-none" href="#wasteform">
               Learn More <i className="bi bi-arrow-right"></i>
             </a>
           </div>
@@ -36,7 +36,7 @@ function Features() {
               responsibly. We provide detailed guidelines to ensure minimal
               environmental impact.
             </p>
-            <a className="text-decoration-none" href="#!">
+            <a className="text-decoration-none" href="#wasteform">
               Get Tips <i className="bi bi-arrow-right"></i>
             </a>
           </div>
@@ -51,7 +51,7 @@ function Features() {
               throwing them away. Help create a sustainable future by reusing
               and repurposing waste effectively.
             </p>
-            <a className="text-decoration-none" href="#!">
+            <a className="text-decoration-none" href="#wasteform">
               Start Recycling <i className="bi bi-arrow-right"></i>
             </a>
           </div>

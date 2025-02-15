@@ -34,7 +34,7 @@ function WasteForm() {
   };
 
   return (
-    <section className="py-5">
+    <section className="py-5" id="wasteform">
       <div className="container px-5">
         <div className="text-center mb-4">
           <h2 className="fw-bolder">

@@ -35,11 +35,11 @@ function Navbar() {
                 Why Choose Us?
               </a>
             </li>
-            {/* <li className="nav-item">
+             <li className="nav-item">
               <a className="nav-link me-4" href="#query">
                 Contact Us
               </a>
-            </li> */}
+            </li> 
             <li className="nav-item">
               <a className="nav-link me-4" href="#features">
                 Our Services
