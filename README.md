@@ -1,26 +1,50 @@
 # 🌱 Greenlify - Smart Waste Management System ♻️  
 
-Greenlify is an **intelligent waste management platform** designed to help individuals and communities **dispose of waste responsibly**. <br/>By leveraging **real-time geolocation and smart waste categorization**, Greenlify makes waste disposal **efficient, eco-friendly, and accessible to all**.  
+Greenlify is an **innovative waste management platform** that simplifies **waste classification, disposal, and recycling** using real-time geolocation.<br/> Our mission is to create a **cleaner, greener, and more sustainable world** by making waste disposal effortless and eco-friendly.  
+
+---
+
+## 🎯 Mission & Vision  
+
+### 🌍 **Our Mission**  
+Greenlify aims to revolutionize waste management by **bridging the gap between individuals and sustainable waste disposal solutions**. We strive to:  
+- **Educate users** about proper waste disposal and recycling.  
+- **Reduce environmental pollution** through smarter waste management.  
+- **Empower communities** with accessible and innovative waste disposal tools.  
+
+### 🚀 **Our Vision**  
+To build a future where waste is **not a burden but a resource**, creating a cleaner and healthier environment for **future generations**.  
 
 ---
 
 ## 🚀 Key Features  
 
 ### 🏷️ **Smart Waste Classification**  
-- Users can classify waste into **Biodegradable, Non-Biodegradable, and Hazardous** categories.  
-- Provides **detailed disposal guidelines** to reduce environmental impact.  
+- Categorizes waste into **Biodegradable, Non-Biodegradable, and Hazardous**.  
+- Provides **instant disposal guidelines** for eco-friendly waste management.  
 
 ### 📍 **Real-Time Dump Station Locator**  
 - Uses **geolocation services** to find the nearest dump stations.  
-- Displays the **fastest route to disposal sites** on an interactive map.  
+- Displays the **fastest route** to disposal sites on an interactive map.  
 
 ### 📞 **Direct Contact with Authorities**  
-- **One-click call** feature to **report waste-related issues** instantly.  
-- Ensures quick response from **local waste management authorities**.  
+- **One-click call** feature to **report waste issues** instantly.  
+- Ensures **quick response** from local waste management teams.  
 
 ### 🔄 **Eco-Friendly Disposal & Recycling Tips**  
-- Offers insights into **recycling & upcycling** waste.  
+- Learn about **recycling, composting, and upcycling** waste materials.  
 - Encourages **sustainable waste management practices**.  
+
+---
+
+## 🔎 SWOT Analysis  
+
+| **Factor**   | **Description** |
+|-------------|----------------|
+| **💪 Strengths** | - User-friendly and simple interface.  <br> - Uses real-time geolocation for convenience. <br> - Promotes environmental awareness. |
+| **🛑 Weaknesses** | - Dependence on **external APIs** for location services. <br> - Requires **internet access** for optimal functionality. |
+| **🚀 Opportunities** | - Potential integration with **AI-based waste detection**. <br> - Expansion to **community-based cleanup drives**. <br> - Collaboration with **government and NGOs**. |
+| **⚠️ Threats** | - Competition from **existing waste management apps**. <br> - Limited adoption in areas with **low tech literacy**. |
 
 ---
 
