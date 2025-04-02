@@ -6,6 +6,8 @@ import HowItWorks from "./components/HowItWorks";
 import Pricing from "./components/Pricing";
 import Testimonials from "./components/Testimonials";
 import Contact from "./components/Contact";
+import Disclaimer from "./components/Disclaimer";
+
 import Footer from "./components/Footer";
 import "./styles.css";
 
@@ -54,6 +56,7 @@ function App() {
       <MapComponent />
       <Testimonials />
       <Contact/>
+      <Disclaimer/>
       <Footer />
     </>
   );
