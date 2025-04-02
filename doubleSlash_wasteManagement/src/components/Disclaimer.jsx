@@ -8,7 +8,7 @@ const Disclaimer = () => {
         Our waste management app provides <strong>waste disposal locations</strong> based on third-party data sources like OpenStreetMap and Google Maps.  
       </p>
       <p className="text-danger fw-bold text-center">
-        We do **not guarantee** the accuracy of the displayed locations. **Please verify** before disposing of waste at any site.
+        We do not guarantee the accuracy of the displayed locations. Please verify before disposing of waste at any site.
       </p>
       {/* <div className="text-center">
         <a
